@@ -1,4 +1,4 @@
-## React-Native Project For University Lab Project (Green Universit Of Bangladesh)
+## React-Native Project (Multi App)
 
 ### 1. Rock Paper Scissors
 
